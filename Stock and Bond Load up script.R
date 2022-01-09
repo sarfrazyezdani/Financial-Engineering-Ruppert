@@ -1,3 +1,5 @@
+library(ggplot2)
+
 dat=read.csv("Stock_bond.csv", header=TRUE)
 read.csv("Stock_bond.csv", header = TRUE)
 
